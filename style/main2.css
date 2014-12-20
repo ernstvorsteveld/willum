@@ -60,6 +60,7 @@ h3 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 .new-poster-last {
     margin-bottom: 40px;
 }
@@ -211,6 +212,16 @@ a:hover {
     text-align: center;
 }
 
+.foto-details-hor-small {
+    /*margin-top: 20px;*/
+    text-align: center;
+}
+
+.foto-details-hor-middle {
+    margin-top: 40px;
+    text-align: center;
+}
+
 .foto-details-ver {
     text-align: center;
 }
@@ -220,7 +231,8 @@ a:hover {
 }
 
 .content-description {
-    margin-top: 75px;
+    margin-top: 40px;
+    margin-left: 44px;
 }
 
 .scheef {
@@ -230,7 +242,7 @@ a:hover {
 }
 
 .foto-space {
-    margin-right:60px;
+    margin-right: 60px;
 }
 
 .vertical-photo-space {
@@ -258,7 +270,6 @@ a:hover {
 .space-vert-100 {
     margin-top: 50px;
 }
-
 
 .menu-item-box {
     padding-left: 20px;
