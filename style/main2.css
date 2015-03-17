@@ -159,6 +159,10 @@ a:hover {
     margin-left: 50px;
 }
 
+.margin-left-100 {
+    margin-left: 100px;
+}
+
 .margin-left-large {
     margin-left: 150px;
 }
@@ -243,6 +247,10 @@ a:hover {
 
 .foto-space {
     margin-right: 60px;
+}
+
+.tekst-space {
+    width: 300px;
 }
 
 .vertical-photo-space {
