@@ -284,6 +284,10 @@ a:hover {
     padding-right: 20px;
 }
 
+.selected-menu-item {
+    color:red
+}
+
 .menu-items-container {
     margin-bottom: 4px;
 }
